@@ -45,5 +45,5 @@ Puedes usar, adaptar y compartir esta información, siempre que cites a **Comand
   title = {Estudio de Mercado de Clubes de Pádel en Colombia (2025)},
   author = {Comando Construcciones SAS},
   year = {2025},
-  url = {https://github.com/tunombre/estudio-mercado-clubes-padel-colombia-2025}
+  url = {https://github.com/comandoconstrucciones/estudio-mercado-clubes-padel-colombia-2025}
 }
