@@ -37,6 +37,7 @@ Cada fila representa un club identificado en 2025 con su respectiva información
 
 Publicado bajo **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
 Puedes usar, adaptar y compartir esta información, siempre que cites a **Comando Construcciones SAS** como fuente.
+https://www.comandoconstrucciones.com/construccion-de-canchas-de-padel-en-colombia/
 
 ## 🔗 Cítanos así
 
