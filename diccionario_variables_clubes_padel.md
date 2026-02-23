@@ -1,7 +1,7 @@
 
-# Diccionario de Variables: Clubes de Pádel en Colombia (2025)
+# Diccionario de Variables: Clubes de Pádel en Colombia (2026)
 
-Este documento describe las columnas incluidas en el archivo `clubes_padel_colombia_2025.csv`, correspondiente al estudio de mercado nacional de clubes de pádel compilado por Comando Construcciones SAS.
+Este documento describe las columnas incluidas en el archivo `clubes_padel_colombia_2026.csv`, correspondiente al estudio de mercado nacional de clubes de pádel compilado por Comando Construcciones SAS.
 
 ## Variables
 
@@ -12,7 +12,7 @@ Este documento describe las columnas incluidas en el archivo `clubes_padel_colom
   Ciudad principal de Colombia donde se ubica el club.
 
 - **Estado**  
-  Estado operativo del club en 2025. Puede incluir valores como "Abierto" o "Cerrado".
+  Estado operativo del club en 2026. Puede incluir valores como "Abierto" o "Cerrado".
 
 - **Tipo de Club**  
   Clasificación general del establecimiento: puede ser un club privado, gimnasio, academia, centro deportivo, etc.
