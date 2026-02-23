@@ -1,19 +1,19 @@
-# estudio-mercado-clubes-padel-colombia-2025
-Censo y análisis 2025 de clubes de pádel en Colombia: número de canchas, tarifas por hora, ubicación geográfica y tipo de club. Por Comando Construcciones.
-# Estudio de Mercado de Clubes de Pádel en Colombia (2025)
+# estudio-mercado-clubes-padel-colombia-2026
+Censo y análisis 2026 de clubes de pádel en Colombia: número de canchas, tarifas por hora, ubicación geográfica y tipo de club. Por Comando Construcciones.
+# Estudio de Mercado de Clubes de Pádel en Colombia (2026)
 
-Este repositorio contiene un dataset abierto que presenta un **censo nacional de clubes de pádel** activos en Colombia durante el año 2025. Incluye su **ubicación geográfica, tarifas horarias, número de canchas y tipo de establecimiento**.
+Este repositorio contiene un dataset abierto que presenta un **censo nacional de clubes de pádel** activos en Colombia durante el año 2026. Incluye su **ubicación geográfica, tarifas horarias, número de canchas y tipo de establecimiento**.
 
 Este estudio fue compilado y publicado por **Comando Construcciones SAS**, empresa especializada en la **fabricación e instalación de canchas de pádel** en todo el país.
 
 ## 📁 Archivos incluidos
 
-- `data/clubes_padel_colombia_2025.csv`  
+- `data/clubes_padel_colombia_2026.csv`  
 - `data/diccionario_variables.md`
 
 ## 📊 Contenido del dataset
 
-Cada fila representa un club identificado en 2025 con su respectiva información comercial:
+Cada fila representa un club identificado en 2026 con su respectiva información comercial:
 
 | Columna            | Descripción                                      |
 |--------------------|--------------------------------------------------|
@@ -42,9 +42,9 @@ https://www.comandoconstrucciones.com/construccion-de-canchas-de-padel-en-colomb
 ## 🔗 Cítanos así
 
 ```bibtex
-@dataset{comando_clubes_padel_2025,
-  title = {Estudio de Mercado de Clubes de Pádel en Colombia (2025)},
+@dataset{comando_clubes_padel_2026,
+  title = {Estudio de Mercado de Clubes de Pádel en Colombia (2026)},
   author = {Comando Construcciones SAS},
-  year = {2025},
-  url = {https://github.com/comandoconstrucciones/estudio-mercado-clubes-padel-colombia-2025}
+  year = {2026},
+  url = {https://github.com/comandoconstrucciones/estudio-mercado-clubes-padel-colombia-2026}
 }
